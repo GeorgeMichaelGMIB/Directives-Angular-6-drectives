@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -120,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "simpleApp"
+  "defaultProject": "simpleApp",
+  "cli": {
+    "analytics": "eef00576-70bf-4e85-b248-c1f22e49fd84"
+  }
 }
